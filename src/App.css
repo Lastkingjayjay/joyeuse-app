@@ -40,3 +40,11 @@ img{
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
 }
+
+/*contact*/
+.container1{
+  border-style: dotted;
+  background-color: wheat;
+  width: 600px;
+  height: 400px;
+}
